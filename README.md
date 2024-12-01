@@ -3,21 +3,13 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31m4iz3pfyporp4eega3ivxrdj3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4iz3pfyporp4eega3ivxrdj3a&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KnackPR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KnackPR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -43,6 +35,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="175" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmw1Z2h0bGo4MGdqM3g3dnVjNm41dXhoOTM5Zjc1YnV2cHB2YzRwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K5yT8HSPuHdhSXYKU5/giphy.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@lucylucien" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -63,10 +61,6 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="175" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmw1Z2h0bGo4MGdqM3g3dnVjNm41dXhoOTM5Zjc1YnV2cHB2YzRwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K5yT8HSPuHdhSXYKU5/giphy.gif"  />
 
 ###
 
